@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Dinesh More 👋</h1>
 <p align="center">
-  <b>Senior Java Cloud Developer | AWS & DevOps Enthusiast | Enterprise Banking Solutions</b>
+  <b>Consulting Specialist | Java Cloud Developer | AWS & DevOps Enthusiast | Enterprise Banking Solutions</b>
 </p>
 
 <p align="center">
